@@ -19,4 +19,4 @@ Note that the context of the comparison is described in the filename. e.g. the c
 
 * The .bedgraph files are generated in a stranded manner from dRNA-Seq datasets aligned against the Ad5 genome (i.e. one file per strand) with 'forward' denoting the top strand and 'reverse' denoting the bottom strand
 
-* The .bw (BigWig) files are xxxxx
+* The meRIP_adenovirus_bedgraphs.zip file contains bedgraph files generated from aligning (Illumina short-read) meRIP-Seq data against the Ad5 adenovirus genome. Three biological replicates for each condition (input / meRIP) are included for virus-infected and mock-infected samples.
